@@ -1,0 +1,6 @@
+{
+  "name": "ArenaSmart - Smart Reservasi Lapangan Olahraga",
+  "description": "Sistem reservasi pintar lapangan olahraga (Futsal, Badminton, Tenis) terintegrasi dengan booking slot interaktif, add-ons sewa alat, payment gateway timer, e-tiket, dan dashboard analitik pengelola (Admin).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
